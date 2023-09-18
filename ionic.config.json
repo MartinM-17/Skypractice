@@ -1,0 +1,8 @@
+{
+  "name": "Skypractice",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "fc346aa5"
+}
